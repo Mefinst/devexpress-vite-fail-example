@@ -1,0 +1,21 @@
+{
+  "name": "devexpress-vite-fail-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "prod": "vite build && vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.8.3",
+    "vite-plugin-vue2": "^1.9.3"
+  },
+  "dependencies": {
+    "devextreme-vue": "^21.2.5",
+    "vue": "^2.6.14"
+  }
+}
